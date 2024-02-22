@@ -1,0 +1,7 @@
+JSX : Java Script syntax easier to create html elements .
+HTML like syntax+JS in one file (merged together)
+JSX --> not html in js (html like syntax)
+React Component: 
+// Class Based Component - Old way (no one uses now)
+// Function Based Component - Latest 
+jsx saves from cross side scripting 
