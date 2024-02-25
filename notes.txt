@@ -5,3 +5,6 @@ React Component:
 // Class Based Component - Old way (no one uses now)
 // Function Based Component - Latest 
 jsx saves from cross side scripting 
+//props
+config-driven ui
+dont use index as key  order of items might change
